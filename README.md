@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nguyen Hien</h1>
-<h3 align="center">I've graduated from University of Engineering and Technology (UET). Iam currently interested in Data Analysis and AI.</h3>
+<h3 align="center">I've graduated from University of Engineering and Technology (UET). <br> Iam currently interested in Data Analysis and AI field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nguyenhien19&label=Profile%20views&color=0e75b6&style=flat" alt="nguyenhien19" /> </p>
 
-- 📫 How to reach me **thuyhiennguyenn19@gmail.com**
+📫 How to reach me **thuyhiennguyenn19@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
